@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Ekaterina 👋
 
-<!--
-**Opikat/Opikat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a UX/UI designer who works with "why" before "how". I design B2B enterprise products, design systems, and websites for small businesses — from discovery to delivery across Czech, Russian, and international markets.
 
-Here are some ideas to get you started:
+I believe in functional design powered by clear logic and good design ops.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recently: creating Figma widgets and plugins, building a custom typography plugin, and developing systematic UX audit frameworks.
+
+- **Portfolio:** [opikat.com](https://www.opikat.com/)
+- **Professional Background:** [LinkedIn](https://www.linkedin.com/in/ekaterina-pykhova/)
+
+---
+
+*Always happy to connect with people interested in systematic design, AI-augmented workflows, and building tools that solve real problems.*
